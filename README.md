@@ -15,7 +15,7 @@ You will find examples of:
 Below is the Entity-Relationship (ER) diagram illustrating the structure of the university database used for these queries. It displays all tables, primary keys (PK), foreign keys (FK), and relationships.
 
 
-<img width="1467" height="882" alt="image" src="https://github.com/user-attachments/assets/711be64b-d7fb-4c34-a769-594bf62836d9" />
+<img width="1272" height="797" alt="image" src="https://github.com/user-attachments/assets/62219485-3d4e-4fbb-8a78-31422969e813" />
 
 
 
